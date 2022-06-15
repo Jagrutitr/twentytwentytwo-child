@@ -2,7 +2,7 @@
 
 ✅ Created Custom Post Type: ‘Listings’ 
 
-✅ Creates custom widget for WordPress Dashboard showing the 5 latest posts from Listings. This widget will display the following information:
+✅ Createed custom widget for WordPress Dashboard showing the 5 latest posts from Listings. This widget will display the following information:
 
 a. Title of the post
 
